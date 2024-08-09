@@ -73,3 +73,15 @@ Bomb Poison: 26.6%
 ### *Castle*
 ![](SnakeGame/Resources/Fruits/obstacleCastle.png)   **Obstáculo na tela, que causa a morte da Snake (com exeção da Kitty Ghost).**
 
+# Como executar o código
+
+### Na IDE IntelliJ IDEA 
+```
+    Dar open project não na pasta ep2, mas sim na pasta SnakeGame.
+    Dar o run no arquivo src/Main/Game.java
+```  
+### Executável - dentro da pasta SnakeGame/ dar o comando:
+```java
+    java -jar SnakeGame.jar
+```
+
